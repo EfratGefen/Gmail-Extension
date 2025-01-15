@@ -40,8 +40,4 @@ It uses the browser's Text-to-Speech technology to convert the email content int
 
 ---
 
-## 📝 Additional Information
 
-- **Supported Browsers**: Chrome
-- **Languages Supported**: English
-- **License**: MIT License
