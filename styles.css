@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #4285F4; /* צבע כחול של Google */
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #34A853; /* צבע ירוק של Google */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2C8B4E;
+  }
+  
